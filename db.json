@@ -1,0 +1,59 @@
+{
+    "tshirts": [
+      {
+        "name": "Adidas ",
+        "price": "1000.000"
+      },
+      {
+        "name": "Adidas ",
+        "price": "1000.000"
+      },
+      {
+        "name": "Adidas ",
+        "price": "1000.000"
+      },
+      {
+        "name": "Adidas ",
+        "price": "1000.000"
+      }
+    ],
+    "shirts": [
+      {
+        "name": "Converse",
+        "price": "750.000"
+      },
+      {
+        "name": "Converse",
+        "price": "750.000"
+      },
+      {
+        "name": "Converse",
+        "price": "750.000"
+      },
+      {
+        "name": "Converse",
+        "price": "750.000"
+      }
+    ],
+    "pants": [
+      {
+        "name": "Nike",
+        "price": "1.500.000"
+      },
+      {
+        "name": "Nike",
+        "price": "1.500.000"
+      },
+      {
+        "name": "Nike",
+        "price": "1.500.000"
+      },
+      {
+        "name": "Nike",
+        "price": "1.500.000"
+      }
+    ],
+    "test": {
+      "name": "test"
+    }
+  }
